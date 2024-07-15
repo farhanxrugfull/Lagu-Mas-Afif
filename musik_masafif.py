@@ -8,6 +8,7 @@ def print_lyrics():
         ("buat diriku tak bisa lupa...", 0.10),
         ("dari banyaknya insan di dunia", 0.08),
         ("mengapa dirimu yang aku sangka?", 0.06),
+        
     ]
     delays = [1.5, 2,5, 8.5, 8.5, 3.5]
 
